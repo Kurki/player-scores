@@ -1,0 +1,12 @@
+## Author: Esperanza - Everlook/EU-Alliance
+## Interface: 30400
+## Title: Player Scores
+## Version: 1.0.0
+## SavedVariables:
+## SavedVariablesPerCharacter: 
+
+PlayerScores.lua
+models\models.xml
+models\messages\messages.xml
+services\services.xml
+views\views.xml
